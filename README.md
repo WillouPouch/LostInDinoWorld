@@ -1,2 +1,2 @@
 # LostInDinoWorld
-Jeu vidéo de plateforme 2D pour mobiles
+Jeu vidéo de plateforme 2D pour mobiles, tout public
